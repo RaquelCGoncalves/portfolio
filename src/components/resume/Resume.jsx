@@ -21,7 +21,7 @@ const languages = [
     {
         icon:"assets/dot.png",
         name:'HTML',
-        level:'50'  
+        level:'40'  
     },
     {
         icon:"assets/dot.png",
