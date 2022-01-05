@@ -4,7 +4,7 @@ import Menu from "./components/menu/Menu";
 import Intro from "./components/intro/Intro";
 import Resume from "./components/resume/Resume";
 import About from "./components/about/About";
-import Contact from "./components/contact/Contact";
+import Portfolio from "./components/portfolio/Portfolio";
 import { useState } from "react";
 function App() {
   const [menuOpen, setMenuOpen] = useState(false)
@@ -16,7 +16,7 @@ function App() {
         <Intro/>
         <About/>
         <Resume/>
-        <Contact/>
+        <Portfolio/>
       </div>
     </div>
   );

@@ -1,9 +1,9 @@
 
-import "./contact.scss"
+import "./portfolio.scss"
 
-export default function Contact() {
+export default function Portfolio() {
     return (
-        <div className='contact' id="contact">
+        <div className='portfolio' id="portfolio">
             <h1 className="title"> Portfolio</h1>
             <img src="assets/portfolio.gif" alt="" className="pika" />
             

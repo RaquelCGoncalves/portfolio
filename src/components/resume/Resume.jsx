@@ -20,12 +20,37 @@ const languages = [
     },
     {
         icon:"assets/dot.png",
-        name:'Django',
+        name:'HTML',
         level:'20'  
     },
     {
         icon:"assets/dot.png",
+        name:'CSS',
+        level:'10'  
+    },
+    {
+        icon:"assets/dot.png",
         name:'React',
+        level:'React'  
+    },
+    {
+        icon:"assets/dot.png",
+        name:'Django',
+        level:'10'  
+    },
+    {
+        icon:"assets/dot.png",
+        name:'Flask',
+        level:'10'  
+    },
+    {
+        icon:"assets/dot.png",
+        name:'JADE',
+        level:'10'  
+    },
+    {
+        icon:"assets/dot.png",
+        name:'Docker',
         level:'10'  
     }
     
@@ -94,6 +119,26 @@ export default function Resume() {
                         </p>
                         
                     </div>
+
+                </div>
+
+                <div className="certificates">
+                    <h4 className="resume-card_heading4">
+                        Course Certificates
+                    </h4>
+                    <div className="deep">
+                        <a href="https://coursera.org/share/b4e873a6487e92e5fe60426b025463bb">
+                            Deep Learning Specialization
+                        </a>
+                    </div>
+                    <div className="boot">
+                        <a href="https://www.udemy.com/certificate/UC-ce010772-43f2-4296-a10f-04de608a4bae/"> 
+                            Python for Data Science and Machine Learning Bootcamp
+                        </a>
+                    </div>
+                        
+                    
+                    
 
                 </div>
                 

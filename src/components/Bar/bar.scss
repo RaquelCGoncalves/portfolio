@@ -4,7 +4,7 @@
    width: 70%; 
    background-color: #D3D3D3 ;
    border-radius: 20px;
-   margin-bottom: 20px;
+   margin-bottom: 10px;
 
    @include mobile {
        width: 70%;
@@ -39,7 +39,7 @@
        font-weight: 700;
 
        @include mobile{
-        font-size: 10px;
+        font-size: 7px;
         border-radius: 10px;
 
     }
