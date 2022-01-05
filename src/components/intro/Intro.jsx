@@ -17,7 +17,7 @@ export default function Intro() {
                     <h3>Mcs student in biomedical engineering - Medical Informatics</h3>
                     
                 </div>
-                <a href="#about" className="ab">
+                <a href="#about" className="down">
                    <img src="assets/down.png" alt="" /> 
                 </a>
                 

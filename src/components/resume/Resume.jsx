@@ -21,32 +21,32 @@ const languages = [
     {
         icon:"assets/dot.png",
         name:'HTML',
-        level:'20'  
+        level:'50'  
     },
     {
         icon:"assets/dot.png",
         name:'CSS',
-        level:'10'  
+        level:'30'  
     },
     {
         icon:"assets/dot.png",
         name:'React',
-        level:'React'  
+        level:'10'  
     },
     {
         icon:"assets/dot.png",
         name:'Django',
-        level:'10'  
+        level:'15'  
     },
     {
         icon:"assets/dot.png",
         name:'Flask',
-        level:'10'  
+        level:'15'  
     },
     {
         icon:"assets/dot.png",
         name:'JADE',
-        level:'10'  
+        level:'20'  
     },
     {
         icon:"assets/dot.png",

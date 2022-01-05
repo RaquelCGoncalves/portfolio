@@ -12,7 +12,7 @@ export default function Topbar({menuOpen, setMenuOpen}) {
                             <img src="assets/linkedin1.png" alt="" /> 
                         </a>
                         <a href='https://github.com/RaquelCGoncalves' className="github">
-                            <img src="assets/github1.png" alt="" /> 
+                            <img src="assets/github1.png" alt=""  /> 
                         </a>
                         
                         <img src="assets/mail2.png" alt="" className="mail" />
