@@ -46,7 +46,7 @@ const languages = [
     {
         icon:"assets/dot.png",
         name:'JADE',
-        level:'20'  
+        level:'15'  
     },
     {
         icon:"assets/dot.png",
